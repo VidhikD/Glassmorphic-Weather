@@ -15,8 +15,3 @@ A **modern and visually stunning** weather forecast app built with **Flutter**. 
 ### Prerequisites  
 - **Flutter SDK** installed  
 - OpenWeatherMap API Key  
-
-### Steps  
-1️⃣ Clone this repository:  
-   ```sh
-   git clone https://github.com/VidhikD/Glassmorphic-Weather.git
